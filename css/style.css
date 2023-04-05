@@ -78,3 +78,28 @@ justify-content: space-between;
     padding: 2%;
     font-size: xx-large;
 }
+
+.discount{
+    position: absolute;
+    background-color: red;
+    color: white;
+    padding: 1%;
+    bottom: 2%;
+    left: 0;
+    margin-right: 1%;
+}
+
+.ecology{
+position: absolute;
+background-color: green;
+color: white;
+padding: 1%;
+left:0;
+bottom: 2%;
+margin-right: 1%;
+}
+
+.ecologybeside{
+    bottom:2%;
+    left:12%;
+}
